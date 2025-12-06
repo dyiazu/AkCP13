@@ -34,8 +34,8 @@ const SINGBOX_CONFIG_V12 = "https://raw.githubusercontent.com/sinspired/sub-stor
 const SINGBOX_CONFIG_V11 = "https://raw.githubusercontent.com/sinspired/sub-store-template/main/1.11.x/sing-box.json"; //勿动
 
 // 🔴 TG配置 (在""填写你需要的内容)
-const TG_BOT_TOKEN = ""; //你的机器人token
-const TG_CHAT_ID = ""; //你的telegram 用户id
+const TG_BOT_TOKEN = "8420141338:AAE5O89LiIHpXLcSDcg7XPMJph8cn8zFT20"; //你的机器人token
+const TG_CHAT_ID = "8089262621"; //你的telegram 用户id
 
 const DEFAULT_CUSTOM_IPS = `173.245.58.127#CF官方优选
 8.39.125.176#CF官方优选
